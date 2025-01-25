@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Admin Login</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/652d6cc8e0.js" crossorigin="anonymous"></script>
+    <script src="js/login.js"></script>
+</head>
+
+<body>
+    <div class="topnav">
+        <a href="index.html#home">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#skills">Skills</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="index.html#experience">Experience</a>
+        <a href="index.html#contact">Contact</a>
+        <a href="login.html" id="login">Admin</a>
+    </div>
+
+    <div class="form">
+        <h2>Login</h2>
+        <form>
+            <label>Email Address</label>
+            <input type="email" placeholder="Enter Email Address" id="email">
+            <label>Password</label>
+            <input type="password" placeholder="Enter Password" id="password">
+            <button onclick="validateUser()" type="submit">Login</button>
+        </form>
+    </div>
+
+</body>
+</html>

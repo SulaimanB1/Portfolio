@@ -1,0 +1,9 @@
+/* Adding colour to p element text */
+p {
+    color: slategrey;
+}
+
+/* Adding colour to h1,h2,h3 element text */
+h1,h2,h3,h4,h5 {
+    color: azure;
+}

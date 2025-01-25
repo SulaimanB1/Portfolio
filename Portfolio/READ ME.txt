@@ -1,0 +1,7 @@
+Portfolio
+
+1. Showcase name and title, about, experience, resume download, projects, contact icons
+2. Fill in information at least 2 on each section
+3. display a theme and style the page
+4. Host the website on computer
+5. host the website externally
